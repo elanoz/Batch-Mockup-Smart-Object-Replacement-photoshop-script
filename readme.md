@@ -1,5 +1,5 @@
 
-![]((https://github.com/elanoz/Batch-Mockup-Smart-Object-Replacement-photoshop-script/blob/FMCG-Bottles/script/Batch%20Mockup%20Smart%20Object%20Replacement_Bottle.gif?raw=true))
+![](https://github.com/elanoz/Batch-Mockup-Smart-Object-Replacement-photoshop-script/blob/FMCG-Bottles/script/Batch%20Mockup%20Smart%20Object%20Replacement_Bottle.gif?raw=true)
 
 # Batch Mockup Smart Object Replacement.js Photoshop script <!-- omit in toc -->
 
